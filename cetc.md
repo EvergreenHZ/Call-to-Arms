@@ -1,3 +1,3 @@
 
 
-[聊天截图](./assets/cetc.jpeg)
+![聊天截图](./assets/cetc.jpeg)
